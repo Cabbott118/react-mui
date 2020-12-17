@@ -22,7 +22,7 @@ export default function Home() {
     >
       <Grid item>
         <Typography variant='h1' color='primary' align='center'>
-          Home
+          Home Page
         </Typography>
         <Typography variant='h5' color='primary' align='center'>
           This is a React-MUI template created by Caleb Abbott.

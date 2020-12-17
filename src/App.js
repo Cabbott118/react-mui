@@ -6,7 +6,7 @@ import {
   Redirect,
 } from 'react-router-dom';
 
-// MUI
+// MUI imports
 import { createMuiTheme, ThemeProvider } from '@material-ui/core/styles';
 
 // Components & Pages
